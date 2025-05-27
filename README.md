@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Shayan Abedi
 
-<!--
-**shayanabedi98/shayanabedi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer based in the Greater Toronto Area. I’ve built and shipped real products from scratch—handling everything from UI to infrastructure. I like working in small, fast-moving teams and care deeply about clean, maintainable code that actually solves problems.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[StoneFinder.io](https://stonefinder.io)** – A global marketplace for stone slab vendors. Built with Next.js (App Router), TypeScript, Prisma, and PostgreSQL. Real-time chat, Stripe integration, AI support via Gemini Flash, and geolocation-based search.
+
+### 🧰 Tech Stack
+
+- **Frontend**: React, Next.js (App Router), TypeScript, TailwindCSS
+- **Backend**: Node.js, Express.js, Prisma, PostgreSQL, MongoDB
+- **Infra & Tools**: AWS S3, CloudFront, Neon, Docker, Render, Vercel
+- **Auth & Payments**: NextAuth, Stripe
+- **Other**: Socket.IO (real-time chat), Gemini API (AI), Google Maps API
+
+### 🎯 What I'm Looking For
+
+I'm currently open to full-time roles as a software developer or full-stack engineer. I bring a product-first mindset, can operate independently, and enjoy building clean, scalable systems.
+
+### 📫 Reach Me
+
+- **Email**: abedishayan@gmail.com  
+- **LinkedIn**: [linkedin.com/in/shayan-abedi-6b1320185](https://www.linkedin.com/in/shayan-abedi-6b1320185/)  
+- **Location**: Richmond Hill, Ontario  
+
+---
+
+Thanks for stopping by.
