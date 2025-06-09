@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shayan Abedi
 
-I'm a full-stack developer based in the Greater Toronto Area. I’ve built and shipped real products from scratch—handling everything from UI to infrastructure. I like working in small, fast-moving teams and care deeply about clean, maintainable code that actually solves problems.
+I'm a full-stack developer based in the Greater Toronto Area. I’ve built and shipped real products from scratch, handling everything from UI to infrastructure. I like working in small, fast-moving teams and care deeply about clean, maintainable code that actually solves problems.
 
 ### 🚀 What I'm Working On
 
@@ -22,7 +22,8 @@ I'm currently open to full-time roles as a software developer or full-stack engi
 ### 📫 Reach Me
 
 - **Email**: abedishayan@gmail.com  
-- **LinkedIn**: [linkedin.com/in/shayan-abedi-6b1320185](https://www.linkedin.com/in/shayan-abedi-6b1320185/)  
+- **LinkedIn**: [linkedin.com/in/shayan-abedi-6b1320185](https://www.linkedin.com/in/shayan-abedi-6b1320185/)
+- **Portfolio**: [shayahabedi.com](https://shayanabed.com/)  
 - **Location**: Richmond Hill, Ontario  
 
 ---
