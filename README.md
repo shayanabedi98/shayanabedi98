@@ -23,7 +23,7 @@ I'm currently open to full-time roles as a software developer or full-stack engi
 
 - **Email**: abedishayan@gmail.com  
 - **LinkedIn**: [linkedin.com/in/shayan-abedi-6b1320185](https://www.linkedin.com/in/shayan-abedi-6b1320185/)
-- **Portfolio**: [shayahabedi.com](https://shayanabedi.com/)  
+- **Portfolio**: [shayanabedi.com](https://shayanabedi.com/)  
 - **Location**: Richmond Hill, Ontario  
 
 ---
