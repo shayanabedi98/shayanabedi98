@@ -5,7 +5,6 @@ I'm a full-stack developer based in the Greater Toronto Area. I’ve built and s
 ### 🚀 What I'm Working On
 
 - **[StoneFinder.io](https://stonefinder.io)** – A global marketplace for stone slab vendors. Built with Next.js (App Router), TypeScript, Prisma, and PostgreSQL. Real-time chat, Stripe integration, AI support via Gemini Flash, and geolocation-based search.
-- **Redline Tokyo** – A multi-product fashion based E-commerce website, selling Japanese Car themed clothing. Built with Vite + React.js, TypeScript, Drizzle ORM, PostgreSQL, Node.js + Express.js, Stripe, AWS S3 (maybe Azure Blob in the future) and GraphQL.
 
 ### 🧰 Tech Stack
 
