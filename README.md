@@ -15,10 +15,6 @@ I'm a full-stack developer based in the Greater Toronto Area. I’ve built and s
 - **Auth & Payments**: NextAuth, Stripe
 - **Other**: Socket.IO (real-time chat), Gemini API (AI), Google Maps API
 
-### 🎯 What I'm Looking For
-
-I'm currently open to full-time roles as a software developer or full-stack engineer. I bring a product-first mindset, can operate independently, and enjoy building clean, scalable systems.
-
 ### 📫 Reach Me
 
 - **Email**: abedishayan@gmail.com  
