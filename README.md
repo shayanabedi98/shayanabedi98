@@ -8,7 +8,7 @@ I'm a full-stack developer based in the Greater Toronto Area. I’ve built and s
 
 ### 🧰 Tech Stack
 
-- **Frontend**: React, React Native, Next.js (App Router), TypeScript, TailwindCSS
+- **Frontend**: React, React Native & Expo, Next.js (App Router), TypeScript, TailwindCSS
 - **Backend**: Node.js, Express.js, Prisma, Drizzle, PostgreSQL, MongoDB, REST, GraphQL
 - **Infra & Tools**: AWS S3, CloudFront, Neon, Supabase, Docker, Render, Vercel
 - **Auth & Payments**: NextAuth, Stripe
